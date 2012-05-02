@@ -1,0 +1,4 @@
+here render methods are stored
+
+each method.jade
+is compiled to object method with same name
